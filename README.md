@@ -8,15 +8,13 @@ I enjoy **automating infrastructure, building CI/CD pipelines, containerizing ap
 
 ---
 
-### 🔭 I’m currently working on :**AWS · Terraform · Kubernetes · CI/CD · DevSecOps**
+🔭 I’m currently working on : **AWS · Terraform · Kubernetes · CI/CD · DevSecOps**
 
-### 🌱 I’m currently learning:**Cloud Architecture · Kubernetes · Infrastructure as Code · Cloud Networking**
+🌱 I’m currently learning : **Cloud Architecture · Kubernetes · Infrastructure as Code · Cloud Networking**
 
-### 💬 Ask me about:**Docker · Kubernetes · Terraform · AWS · GitHub Actions · DevSecOps**
+💬 Ask me about : **Docker · Kubernetes · Terraform · AWS · GitHub Actions · DevSecOps**
 
-### ⚡ Fun fact: 
-I enjoy turning **what I learn into practical projects** and troubleshooting things until they work. 🚀
-
+⚡ Fun fact :I enjoy turning what I learn into practical projects and troubleshooting things until they work. 🚀
 
 ## 📄 Resume
 
