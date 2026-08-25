@@ -25,6 +25,15 @@ I enjoy **automating infrastructure, building CI/CD pipelines, containerizing ap
 I enjoy turning **what I learn into practical projects** and troubleshooting things until they work. 🚀
 
 ---
+## 📄 Resume
+
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1EwDZc8L3rJhaH_xdkMYrZ9lMLNb7ysuX/view?usp=sharing">
+<img src="https://img.shields.io/badge/View%20My%20Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+</p>
 
 ## 🛠️ Tech Stack
 
